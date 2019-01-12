@@ -1,6 +1,6 @@
 # [Scientia Security on GitHub](https://scientia-security.github.io/)
-
-このページでは、過去翻訳したドキュメント・執筆文書・プログラムを公開しています。
+* 『[セキュリティコンサルタントの日誌から](https://www.scientia-security.org/)』の関連サイトです。
+* このページでは、過去翻訳したドキュメント・執筆文書・プログラムを公開しています。
 
 ## 翻訳・執筆
 * **翻訳：[世界のサイバーインシデントで利用される公開ツール](https://scientia-security.github.io/translation/US-CERT-ALERT-AA18-284A)**
