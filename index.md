@@ -3,9 +3,9 @@
 このページでは、過去翻訳したドキュメント・執筆文書・プログラムを公開しています。
 
 ## 翻訳・執筆
-* **翻訳：世界のインシデントで利用される公開ツール**
+* **翻訳：[世界のサイバーインシデントで利用される公開ツール](https://scientia-security.github.io/translation/US-CERT-ALERT-AA18-284A)**
   * 公開：2018-10-14
-  * 原題：Publicly Available Tools Seen in Cyber Incidents Worldwide
+  * 原題：[Publicly Available Tools Seen in Cyber Incidents Worldwide](https://www.us-cert.gov/ncas/alerts/AA18-284A)
   * US-CERTが公開した「Publicly Available Tools Seen in Cyber Incidents Worldwide」を翻訳しました。
     
 * **翻訳：誘導質問技術(Elicitation Techniques)**
