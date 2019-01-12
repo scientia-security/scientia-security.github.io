@@ -7,10 +7,13 @@
   * 公開：2018-10-14
   * 原題：[Publicly Available Tools Seen in Cyber Incidents Worldwide](https://www.us-cert.gov/ncas/alerts/AA18-284A)
   * US-CERTが公開した「Publicly Available Tools Seen in Cyber Incidents Worldwide」を翻訳しました。
-    
+
+* **翻訳：[NYDFS Cybersecurity Regulation](https://scientia-security.github.io/translation/NYDFS-Regulation)**
+  * 公開：2017-01-12
+  * 原題：[NYDFS Cybersecurity Requirements for Financial Services Companies](https://www.dfs.ny.gov/legal/regulations/adoptions/dfsrf500txt.pdf)
+  * 本資料は、NYDFSのサイバーセキュリティ規制を翻訳したものです。
+  
 * **翻訳：[FBI 誘導質問技術](https://scientia-security.github.io/translation/FBI-Elicitation-Techniques)**
   * 公開：2016-07-17
   * 原題：[FBI Elicitation Techniques](https://www.fbi.gov/file-repository/elicitation-brochure.pdf/view)
   * 本資料は、Social Engineeringの観点からFBIのドキュメント"Elicitation Techniques"を翻訳した資料です。
-  
-  
