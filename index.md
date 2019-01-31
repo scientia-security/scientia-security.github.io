@@ -2,7 +2,14 @@
 * 『[セキュリティコンサルタントの日誌から](https://www.scientia-security.org/)』の関連サイトです。
 * このページでは、過去翻訳したドキュメント・執筆文書・プログラムを公開しています。
 
-## 翻訳・執筆
+## 翻訳（出版物）
+* **翻訳書：[インテリジェンス駆動型インシデントレスポンス ―攻撃者を出し抜くサイバー脅威インテリジェンスの実践的活用法](https://www.oreilly.co.jp/books/9784873118666/)**
+  * 公開：2018-12-26
+  * 原題：[Intelligence-Driven Incident Response: Outwitting the Adversary](https://www.amazon.co.jp/dp/1491934948)
+  * Scott J. Roberts, Rebekah Brownが執筆した"Intelligence-Driven Incident Response"の翻訳を担当しました。
+
+
+## 翻訳・執筆（個人）
 * **翻訳：[アドバイザリ：O365への侵入増加と防御方法について](https://scientia-security.github.io/translation/NCSC-O365-Mitigation)**
   * 公開：2019-01-17
   * 原題：[Advisory: The rise of Microsoft Office 365 compromise](https://www.ncsc.gov.uk/alerts/rise-microsoft-office-365-compromise)
