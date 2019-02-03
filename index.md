@@ -10,6 +10,11 @@
 
 
 ## 翻訳・執筆（個人）
+* **翻訳：[OSINT 2019 Guide](https://scientia-security.github.io/translation/2019-OSINT-Guide)**
+  * 公開：2019-02-03
+  * 原題：[2019 OSINT Guide](https://www.randhome.io/blog/2019/01/05/2019-osint-guide/)
+  * セキュリティ研究者であるTek氏が公開した「2019 OSINT Guide」を許可を得て翻訳しました。
+
 * **翻訳：[アドバイザリ：O365への侵入増加と防御方法について](https://scientia-security.github.io/translation/NCSC-O365-Mitigation)**
   * 公開：2019-01-17
   * 原題：[Advisory: The rise of Microsoft Office 365 compromise](https://www.ncsc.gov.uk/alerts/rise-microsoft-office-365-compromise)
