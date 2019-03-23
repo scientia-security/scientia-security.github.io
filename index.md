@@ -8,11 +8,15 @@
   * 原題：[Intelligence-Driven Incident Response: Outwitting the Adversary](https://www.amazon.co.jp/dp/1491934948)
   * Scott J. Roberts, Rebekah Brownが執筆した"Intelligence-Driven Incident Response"の翻訳を担当しました。
 
-
 ## 翻訳・執筆（個人）
+* **翻訳：[The Equifax Data Breach Report](https://scientia-security.github.io/translation/2018-Equifax-Report)**
+  * 公開：2019-03-23
+  * 原題：[The Equifax Data Breach Report](https://republicans-oversight.house.gov/wp-content/uploads/2018/12/Equifax-Report.pdf)
+  * 米国下院監査政府改革委員会が発行したEquifaxのレポートを翻訳しました。
+  
 * **翻訳：[OSINT 2019 Guide](https://scientia-security.github.io/translation/2019-OSINT-Guide)**
   * 公開：2019-02-03
-  * 原題：[2019 OSINT Guide](https://www.randhome.io/blog/2019/01/05/2019-osint-guide/)
+  * 原題：[The Equifax Data Breach](https://www.randhome.io/blog/2019/01/05/2019-osint-guide/)
   * セキュリティ研究者であるTek氏が公開した「2019 OSINT Guide」を許可を得て翻訳しました。
 
 * **翻訳：[アドバイザリ：O365への侵入増加と防御方法について](https://scientia-security.github.io/translation/NCSC-O365-Mitigation)**
