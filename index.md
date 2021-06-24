@@ -7,6 +7,12 @@
   * 公開：2018-12-26
   * 原題：[Intelligence-Driven Incident Response: Outwitting the Adversary](https://www.amazon.co.jp/dp/1491934948)
   * Scott J. Roberts, Rebekah Brownが執筆した"Intelligence-Driven Incident Response"の翻訳を担当しました。
+* **翻訳書：[初めてのマルウェア解析](https://www.oreilly.co.jp/books/9784873119298/)**
+  * 公開：2020-12-15
+  * 原題：[Learning Malware Analysis: Explore the concepts, tools, and techniques to analyze and investigate Windows malware](https://www.amazon.co.jp/dp/B073D49Q6W/)
+  * Monnappa K Aが執筆した"Learning Malware Analysis"の翻訳を担当しました。
+
+
 
 ## 翻訳・執筆（個人）
 * **翻訳：[The Equifax Data Breach Report](https://scientia-security.github.io/translation/2018-Equifax-Report)**
