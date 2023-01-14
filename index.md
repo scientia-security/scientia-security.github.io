@@ -11,11 +11,14 @@
   * 公開：2020-12-15
   * 原題：[Learning Malware Analysis: Explore the concepts, tools, and techniques to analyze and investigate Windows malware](https://www.amazon.co.jp/dp/B073D49Q6W/)
   * Monnappa K Aが執筆した"Learning Malware Analysis"の翻訳を担当しました。
-* **翻訳書：[詳解 インシデントレスポンス]([https://www.oreilly.co.jp/books/9784873119298/])**
+* **翻訳書：[詳解 インシデントレスポンス](https://www.oreilly.co.jp/books/9784873119298/)**
   * 公開：2022-01-27
   * 原題：[Applied Incident Response](https://www.amazon.co.jp/dp/1119560268)
   * Steve Ansonが執筆した"Applied Incident Response"の翻訳を担当しました。
-
+* **監訳書：[マスタリングGhidra](https://www.oreilly.co.jp/books/9784873119922/)**
+  * 公開：2022-05-27
+  * 原題：[The Ghidra Book: The Definitive Guide](https://www.amazon.co.jp/dp/1718501021)
+  * Chris Eagle, Kara Nanceが執筆した"The Ghidra Book"の監訳を担当しました。
 
 
 ## 翻訳・執筆（個人）
